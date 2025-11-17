@@ -1,8 +1,8 @@
 # Yosef-Abire
 <!-- GitHub Profile README for Yosef Abire -->
 
-<h1 align="center">Hey there 👋, I'm Yosef Abire</h1>
-<h3 align="center">🚀 Python-Based Backend Developer | API Engineer | Data Enthusiast</h3>
+<h1 align="center">Hey there , I'm Yosef Abire</h1>
+<h3 align="center">🚀Backend and API Developer | Python Enthusiast | Data Analyst</h3>
 
 ---
 

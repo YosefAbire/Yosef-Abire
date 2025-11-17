@@ -84,5 +84,6 @@ I work behind the scenes—**making data move, behave, and work intelligently** 
 
 ---
 
-⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*
+⭐️ *“The strongest part of any system is the part people never see.”*
+
 — Yosef Abire

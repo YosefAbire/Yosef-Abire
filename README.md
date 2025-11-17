@@ -84,6 +84,6 @@ I work behind the scenes—**making data move, behave, and work intelligently** 
 
 ---
 
-⭐️ *“The strongest part of any system is the part people never see.”*
+⭐️ <h2> *“The strongest part of any system is the part people never see.”* </h2>
 
 — Yosef Abire

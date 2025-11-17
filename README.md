@@ -62,7 +62,7 @@ I work behind the scenes—**making data move, behave, and work intelligently** 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YosefAbire&show_icons=true&theme=tokyonight" alt="Yosef's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MeKJR-sYsDeveloper&show_icons=true&theme=tokyonight" alt="Yosef's GitHub stats" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yosefabire&theme=tokyonight" alt="Yosef's streak stats" height="160"/>
 </p>
 
